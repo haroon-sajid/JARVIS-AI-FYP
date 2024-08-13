@@ -1,61 +1,24 @@
-install python 3.10.10 in terminal of VS code
-'pip install python 3.10.10'
-create folder in C: directory
+```
+1. Install Python 3.10.10 in the terminal of VS Code:
+   ```
+   pip install python 3.10.10
+   ```
 
-SHIFT + Right Click (open powerShell)
-write: code .
-(vs code will open)
+2. Create a folder named `J.A.R.V.I.S_A.I` in the C: directory:
+   ```
+   mkdir C:\J.A.R.V.I.S_A.I
+   ```
 
-create: jarvis.py
-code: import pttsx3 and speek function
+3. Paste all 5 folders in this folder.
 
-make functions....
+4. Install all libraries:
+   ```
+   pip install -r requirements.txt
+   ```
 
-pip install speechRecognition /// 
+5. Go to the MAIN folder and run the `Main.pyw` file.
 
-import ....
-code...
+6. When Jarvis speaks the greeting, you say the command 'Wakeup'.
 
-pip install wikipedia
-import...
-code...
-
-pip install webbrowser
-
-+ code for google youtube
-webbrowser.open("google.com")
-
-pip install pywhatkit
-+ code for google search and speak summary
-
-+ open file video audio by voice
-
-+ input hindi traslate to English and understand
-pip install googletrans==3.1.0a0
-
-+code for translation
-code....
-
-+ using selenium library for web site opening
- 
-+ SMTPlib fro email sending
-
-+ import os
-os is used for file handling in winodws.
-using os to find all music in windows .mp3
-
-+ import pygame
-to play Alram tune in background
-
-+ import openai
-pip install openai
-
-+ pip install chatterbot_corpus
-
-
-
-
-
-
-
-
+7. After that, Jarvis will start the conversation.
+```
