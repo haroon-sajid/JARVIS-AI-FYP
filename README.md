@@ -60,8 +60,8 @@ To set up the Advanced Voice Assistant on your system, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/Advanced_JARVIS_AI_FYP.git
-   cd Advanced_JARVIS_AI_FYP
+   git clone https://github.com/haroon-sajid/JARVIS-AI-FYP.git
+   cd JARVIS-AI-FYP
    ```
 
 2. **Install the required dependencies**:
